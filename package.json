@@ -1,18 +1,18 @@
 {
   "name": "writeas",
-  "version": "0.0.2",
-  "description": "write.as client",
-  "main": "src/index.mjs",
+  "version": "0.0.0",
+  "description": "Write.as Javascript Client",
+  "main": "src/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/devsnek/writeas.js.git"
+    "url": "git+https://github.com/matthew-jack/writeas.js.git"
   },
-  "author": "snek <me@gus.host>",
+  "author": "Matthew Jack <matthew-jack@uiowa.edu>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/devsnek/writeas.js/issues"
+    "url": "https://github.com/matthew-jack/writeas.js/issues"
   },
-  "homepage": "https://github.com/devsnek/writeas.js#readme",
+  "homepage": "https://github.com/matthew-jack/writeas.js#readme",
   "dependencies": {
     "snekfetch": "^3.4.5"
   }
